@@ -10,5 +10,6 @@ Los conceptos relevantes en esta sección son:
 * Interacción con Mouse
 
 ##Líneas
-![alt tag](https://github.com/ProcessingTEC/Formas/blob/master/P_S1_Lines1/IMG_8903.JPG)
+
+<img src="https://github.com/ProcessingTEC/Formas/blob/master/P_S1_Lines1/IMG_8903.JPG" width="48">
 

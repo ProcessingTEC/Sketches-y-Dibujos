@@ -22,7 +22,7 @@ Los conceptos relevantes en esta sección son:
 
 ##Polígonos
 
-#Tipografía
+##Tipografía
 
 ##Imágenes
 

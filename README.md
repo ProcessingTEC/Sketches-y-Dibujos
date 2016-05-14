@@ -9,6 +9,9 @@ Los conceptos relevantes en esta sección son:
 * rotaciones
 * Interacción con Mouse
 
+##Puntos
+<img src="https://github.com/ProcessingTEC/Formas/blob/master/P_S1_Points1/1283.jpg" width="100">
+
 ##Líneas
 
 <img src="https://github.com/ProcessingTEC/Formas/blob/master/P_S1_Lines1/IMG_8903.JPG" width="100">

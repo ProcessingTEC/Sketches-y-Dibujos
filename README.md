@@ -14,7 +14,7 @@ Los conceptos que aprenderán (haciendo) en esta sección son:
 ##Color
 
 ##Puntos
-<img src="https://github.com/ProcessingTEC/Formas/blob/master/P_S1_Points1/1283.jpg" width="100">
+<img src="https://github.com/ProcessingTEC/Sketches-y-Dibujos/blob/master/P_S1_Points1/0600.jpg" width="100">
 
 ##Líneas
 

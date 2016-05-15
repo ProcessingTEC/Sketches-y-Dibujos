@@ -1,3 +1,4 @@
+//Tomas de Camino Beck
 void setup(){
   size(600,600);
   smooth(8);
@@ -7,6 +8,6 @@ void setup(){
 void draw(){
   int s = frameCount % 200;
   strokeWeight(s);
-  stroke(255,10);
+  stroke(random(255),random(255),random(255),10);
   point(mouseX,mouseY);
 }

@@ -28,3 +28,9 @@ Los conceptos que aprenderán (haciendo) en esta sección son:
 
 ##Imágenes
 
+###Fotos
+
+###Webcam
+<img src="https://github.com/ProcessingTEC/Sketches-y-Dibujos/blob/master/P_S1_WebCam1/0014.jpg" width="100">
+
+

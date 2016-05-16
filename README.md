@@ -12,6 +12,7 @@ Los conceptos que aprenderán (haciendo) en esta sección son:
 * Manipulación de imágenes 
 
 ##Color
+<img src="https://github.com/ProcessingTEC/Sketches-y-Dibujos/blob/master/P_S1_color1/IMG_8945.JPG" width="100">
 
 ##Puntos
 <img src="https://github.com/ProcessingTEC/Sketches-y-Dibujos/blob/master/P_S1_Points1/0600.jpg" width="100">

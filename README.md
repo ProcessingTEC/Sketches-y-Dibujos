@@ -33,6 +33,8 @@ Todos los proyectos de programaci'on en Processing se les llama "Sketches", y ca
 ##Líneas
 
 <img src="https://github.com/ProcessingTEC/Formas/blob/master/P_S1_Lines1/IMG_8903.JPG" width="100">
+<img src="https://github.com/ProcessingTEC/Sketches-y-Dibujos/blob/master/P_S1_Lines2/lines2.png" width="100">
+
 
 ##Círculos y Cuadrados
 

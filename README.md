@@ -2,7 +2,12 @@
 
 En lugar de "Hello World!" en processing lo primero  es crear formas y objetos que cambian colores e interactuan con el mouse.  Exploraremos los colores, las líneas, círculos, cuadrados y otros polígonos.  Cada porción de código introduce a un concepto. La intención es que sean transformado y adaptado para su estudio y exploración. Los códigos sirven para aprender buscando que significa cada paso en el procedimiento.  Allí encontrarán funciones y métodos nuevos que deben buscar su significado, en la página de [referencia del lengiuaje en Processing.org](https://processing.org/reference/), o en cualquier lado en el internet.
 
+##Antes de iniciar
+
 Asumimos que tiene un conocimiento operacional del lenguaje Java. Para una repaso de los elementos del lenguaje y particularidades de Java en processing, recomendamos leer el primer capítulo de [Algorithms for Visual Design](https://drive.google.com/file/d/0B4HO-XVhuYRSV0xmQXhRc24xM1U/view?usp=sharing)
+
+También recomiendo ver [este documental](https://vimeo.com/60731302) sobre processing, pone en perspectiva el origen e idea detras del desarrollo de esta herramienta 
+
 
 Los conceptos que aprenderán (haciendo) en esta sección son:
 

@@ -4,9 +4,9 @@ En lugar de "Hello World!" en processing lo primero  es crear formas y objetos q
 
 ##Antes de iniciar
 
-Asumimos que tiene un conocimiento operacional del lenguaje Java. Para una repaso de los elementos del lenguaje y particularidades de Java en processing, recomendamos leer el primer capítulo de [Algorithms for Visual Design](https://drive.google.com/file/d/0B4HO-XVhuYRSV0xmQXhRc24xM1U/view?usp=sharing)
+Asumimos que tiene un conocimiento operacional del lenguaje Java. Para una repaso de los elementos del lenguaje y particularidades de Java en processing, recomendamos leer el primer capítulo de [Algorithms for Visual Design](https://drive.google.com/file/d/0B4HO-XVhuYRSV0xmQXhRc24xM1U/view?usp=sharing). En [este link](http://hello.processing.org/) hay un tutorial de 1 hora de Processing que les recomiendo seguir.
 
-También recomiendo ver [este documental](https://vimeo.com/60731302) sobre processing, pone en perspectiva el origen e idea detras del desarrollo de esta herramienta 
+También recomiendo ver [este documental](https://vimeo.com/60731302) sobre processing, pone en perspectiva el origen e idea detras del desarrollo de esta herramienta
 
 ##Primeros pasos 
 

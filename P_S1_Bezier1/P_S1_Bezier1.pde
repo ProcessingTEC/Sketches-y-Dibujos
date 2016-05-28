@@ -1,3 +1,4 @@
+//Tomas de Camino Beck
 ArrayList<PVector> pincel = new ArrayList<PVector>();
 
 void setup() {

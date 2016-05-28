@@ -38,7 +38,7 @@ Todos los proyectos de programaci'on en Processing se les llama "Sketches", y ca
 
 ##Círculos y Cuadrados
 
-<img src="https://github.com/ProcessingTEC/Sketches-y-Dibujos/blob/master/P_S1_Circle1/circle.png" width="100">
+<img src="https://github.com/ProcessingTEC/Sketches-y-Dibujos/blob/master/P_S1_Circle1/circle.png" width="100"><img src="https://github.com/ProcessingTEC/Sketches-y-Dibujos/blob/master/P_S1_rect1/rect.png" width="100">
 
 ##Shapes, bezier y polígonos
 

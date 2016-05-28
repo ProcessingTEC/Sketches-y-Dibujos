@@ -12,7 +12,7 @@ void setup() {
 
 void draw() {
   frameRate(20);
-  fill(0,150);
+  fill(random(255), random(255), random(255),150);
   int s= 1+int(random(324));
   textFont(font, s);
   if (keyPressed) {

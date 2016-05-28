@@ -47,6 +47,8 @@ Todos los proyectos de programaci'on en Processing se les llama "Sketches", y ca
 
 
 ##Tipografía
+<img src="https://github.com/ProcessingTEC/Sketches-y-Dibujos/blob/master/P_S1_Font1/font1.png" width="100">
+
 
 ##Imágenes
 

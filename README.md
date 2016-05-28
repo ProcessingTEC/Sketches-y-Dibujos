@@ -40,7 +40,10 @@ Todos los proyectos de programaci'on en Processing se les llama "Sketches", y ca
 
 <img src="https://github.com/ProcessingTEC/Sketches-y-Dibujos/blob/master/P_S1_Circle1/circle.png" width="100">
 
-##Polígonos
+##Shapes, bezier y polígonos
+
+<img src="https://github.com/ProcessingTEC/Sketches-y-Dibujos/blob/master/P_S1_Bezier1/bezier.png" width="100">
+
 
 ##Tipografía
 

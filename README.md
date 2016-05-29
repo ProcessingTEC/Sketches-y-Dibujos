@@ -8,6 +8,11 @@ Asumimos que tiene un conocimiento operacional del lenguaje Java. Para una repas
 
 También recomiendo ver [este documental](https://vimeo.com/60731302) sobre processing, pone en perspectiva el origen e idea detras del desarrollo de esta herramienta
 
+##Sketches
+
+Todos los proyectos de programaci'on en Processing se les llama "Sketches", y cada uno de estos códigos con extensión .pde, se encuentra dentro de un folder con el mismo nombre.  En su computadora todos los sketches se encuentran dentro de el folder "sketchbook".  La idea es que cada proyecto en reliada es un boceto de código, y processing es una herramienta de "boceteo" así como un diseñador crea algunas ideas preliminares de un diseño a través de un boceto.  Estos folders además contienen todos los archivos que se utilizen en un proyecto, lo cual es bastnate práctico.
+
+
 ##Objetivos 
 
 Los conceptos que aprenderán (haciendo) en esta sección son:
@@ -18,10 +23,6 @@ Los conceptos que aprenderán (haciendo) en esta sección son:
 * rotaciones
 * Interacción con Mouse
 * Manipulación de imágenes 
-
-##Sketches
-
-Todos los proyectos de programaci'on en Processing se les llama "Sketches", y cada uno de estos códigos con extensión .pde, se encuentra dentro de un folder con el mismo nombre.  En su computadora todos los sketches se encuentran dentro de el folder "sketchbook".  La idea es que cada proyecto en reliada es un boceto de código, y processing es una herramienta de "boceteo" así como un diseñador crea algunas ideas preliminares de un diseño a través de un boceto.  Estos folders además contienen todos los archivos que se utilizen en un proyecto, lo cual es bastnate práctico.
 
 
 ##Color

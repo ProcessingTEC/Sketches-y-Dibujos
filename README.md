@@ -8,7 +8,7 @@ Asumimos que tiene un conocimiento operacional del lenguaje Java. Para una repas
 
 También recomiendo ver [este documental](https://vimeo.com/60731302) sobre processing, pone en perspectiva el origen e idea detras del desarrollo de esta herramienta
 
-##Primeros pasos 
+##Objetivos 
 
 Los conceptos que aprenderán (haciendo) en esta sección son:
 

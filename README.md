@@ -51,6 +51,8 @@ Todos los proyectos de programaci'on en Processing se les llama "Sketches", y ca
 
 ##Imágenes
 
-<img src="https://github.com/ProcessingTEC/Sketches-y-Dibujos/blob/master/P_S1_WebCam1/0014.jpg" width="100">
+<img src="https://github.com/ProcessingTEC/Sketches-y-Dibujos/blob/master/P_S1_WebCam1/0014.jpg" width="100"><img src="https://github.com/ProcessingTEC/Sketches-y-Dibujos/blob/master/P_S1_Image2/image2.png" width="100">
+
+
 
 

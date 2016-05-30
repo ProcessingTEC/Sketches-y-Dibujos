@@ -3,7 +3,7 @@
 
 void setup() {
   size(600, 600);
-  colorMode(HSB, 600, 100, 100);
+  colorMode(HSB, 600, 50, 50);
   rectMode(CENTER);
 }
 

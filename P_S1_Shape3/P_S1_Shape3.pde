@@ -1,8 +1,6 @@
 // @author: Tomas de Camino Beck
 // Dinamic array use
 
-ArrayList<PVector> balls = new ArrayList<PVector>();
-
 void setup() {
   size(600, 600);
   stroke(0, 100);
